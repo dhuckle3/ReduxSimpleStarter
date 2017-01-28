@@ -6,8 +6,9 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        React simple starter
-        <SearchBar />
+          React simple starter
+          <SearchBar />
+          <WeatherList />
         <StationList />
       </div>
 
